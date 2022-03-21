@@ -1,4 +1,3 @@
-import React from "react";
 import { requestStates } from '../constants';
 
 export const actionTypes = {
