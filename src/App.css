@@ -155,3 +155,28 @@ h3 {
 .skill-item {
     margin: 0 48px;
 }
+
+@media screen and (max-width: 979px) {
+    .main-cove {}
+    .profile-thumb {
+        margin: 68px;
+    }
+    .display-table-contents {
+        text-align: initial;
+    }
+    /* .heading {
+        text-align: initial;
+    } */
+    .skills-container {
+        display: initial;
+    }
+    .container {
+        width: initial;
+    }
+    .title-text {
+        text-align: center;
+    }
+    .social-icons {
+        text-align: center;
+    }
+}
